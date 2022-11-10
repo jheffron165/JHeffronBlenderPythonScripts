@@ -7,7 +7,7 @@ bl_info = {
     "description": "Batch exports selected meshes and armatures. Options for moving objects to world origin, file format, and file name prefix.",
     "warning": "",
     "wiki_url": "",
-    "category": "Modifiers",
+    "category": "Import-Export",
 }
 
 import bpy
